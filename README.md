@@ -121,10 +121,6 @@ Curatherm/
 - **Recall**: 92.5%
 - **F1-Score**: 92.1%
 
-### 📈 Visualization of ROC Curve
-
-![ROC Curve](link-to-roc-curve.png)
-
 ---
 
 ## 📱 **App Features**
