@@ -1,4 +1,3 @@
----
 
 # **Curatherm: Breast Cancer Detection Using Infrared Thermography**
 
